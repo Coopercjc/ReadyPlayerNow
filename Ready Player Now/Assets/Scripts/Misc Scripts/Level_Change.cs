@@ -13,7 +13,7 @@ public class Level_Change : MonoBehaviour
     public bool transition = false;
     //public bool ready = false;
     //IE if you want the fade to black to work
-    public bool useGameSceneManager = true;
+    public bool useGameSceneManager = false;
     void OnTriggerEnter2D(Collider2D other)
     {
         //other.name should equal the root of your Player object

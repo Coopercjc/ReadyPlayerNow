@@ -1,0 +1,2 @@
+[NAME=GAME]YOU'VE OBTAINED THE CRYSTAL KEY!!!
+[NAME=GAME]Well Done. You have defeated Zorrento! Now go claim that Egg!!!

@@ -205,7 +205,6 @@ GameObject:
   m_Component:
   - component: {fileID: 153251134}
   - component: {fileID: 153251133}
-  - component: {fileID: 153251135}
   - component: {fileID: 153251136}
   m_Layer: 0
   m_Name: Game Over Manager
@@ -242,21 +241,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &153251135
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 153251132}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 420a2ca664ca3f345bc17b6d7d48034a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  levelIndex: 0
-  ss: {fileID: 0}
-  useGameSceneManager: 0
 --- !u!114 &153251136
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1060,7 +1044,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   fallingBlockPrefab: {fileID: 8302662952100623766, guid: e1a662493e8064249a5da57bd772f56e,
     type: 3}
-  secondsBetweenSpawnMinMax: {x: 0.2, y: 0.4}
+  secondsBetweenSpawnMinMax: {x: 0.15, y: 0.35}
   spawnSizeMinMax: {x: 0.5, y: 1.5}
   spawnAngleMax: 20
 --- !u!4 &1742008781

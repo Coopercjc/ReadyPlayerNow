@@ -1,3 +1,3 @@
 [NAME=Arcade Game]Why hello there! Are you ready to play a game? Press Enter if you are ready. 
 [NAME=Arcade Game]You must stay alive for at least 30 seconds before you can move on.
-[NAME=Arcade Game]To start the game, walk away and come back to activate the trigger.
+[NAME=Arcade Game]To start the game, walk away, prepare yourself, and don't die.

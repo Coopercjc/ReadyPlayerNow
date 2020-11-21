@@ -25,12 +25,12 @@ public class GameOver : MonoBehaviour
                     secondsKeeper.Show1 = true;
                     secondsKeeper.Music = true;
                     //GameObject.FindGameObjectWithTag("Music").GetComponent<MusicClass>().StopMusic();
-                    SceneManager.LoadScene(2);
+                    SceneManager.LoadScene(7);
                 }
                 else {
                     //GameObject.FindGameObjectWithTag("Music").GetComponent<MusicClass>().StopMusic();
                     secondsKeeper.Music = true;
-                    SceneManager.LoadScene(0);
+                    SceneManager.LoadScene(4);
                 }
             }
         }

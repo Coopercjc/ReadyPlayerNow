@@ -1,0 +1,5 @@
+[NAME=Arcade Game]So you made it to the boss! How are you against him?.
+[NAME=Arcade Game]The game is classic Pong. Hit the ball past your opponent to score.
+[NAME=Arcade Game]Once you get 5 points, you win!!!
+[NAME=Arcade Game]But be careful, if Zorrento score 5 first, YOU LOSE!!! No Pressure.
+[NAME=Arcade Game]To start the game, walk away, prepare yourself, and good luck.

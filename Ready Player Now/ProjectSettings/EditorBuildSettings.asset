@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Level1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Start Screen.unity
+    guid: bea6d3a660b973843ac9eaabdf3d95f6
   - enabled: 1
     path: Assets/Scenes/Falling Blocs.unity
     guid: 8650dae38e977ca4e9e7b0f171fd2f39
@@ -18,9 +18,27 @@ EditorBuildSettings:
     path: Assets/Scenes/Level3.unity
     guid: 091b22eda64e7b24691461cccbd65e14
   - enabled: 1
-    path: Assets/Scenes/Start Screen.unity
-    guid: bea6d3a660b973843ac9eaabdf3d95f6
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: 2c61a8d29bb296f49a4b38ec4b29135a
+  - enabled: 1
+    path: Assets/Scenes/SlidingTilePuzzle.unity
+    guid: c78156a8d0505db48bc2d754df2cd940
+  - enabled: 1
+    path: Assets/Scenes/Transition1.unity
+    guid: dc64f64ecd7431f45bbc10be95a24b9b
+  - enabled: 1
+    path: Assets/Scenes/Transition2.unity
+    guid: 0239ecbf2db86df4d96b9e9289233c1d
+  - enabled: 1
+    path: Assets/Scenes/Pong.unity
+    guid: 08bbadabbf53042d8a6e4115fc062508
+  - enabled: 1
+    path: Assets/Scenes/EggRoom.unity
+    guid: 79b88009d8750c64584bc0a2d096b477
+  - enabled: 1
+    path: Assets/Scenes/EggAnimiationEnd.unity
+    guid: 09c081f63c2dd7a43aec9ad7c309e4ba
   m_configObjects: {}

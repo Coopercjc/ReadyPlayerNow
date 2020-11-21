@@ -1,3 +1,2 @@
 [NAME=GAME]YOU'VE OBTAINED THE COPPER KEY!!!
 [NAME=...]I am suprised you made it this far. But how are you with puzzles? BWAHAHAHA!
-[NAME=...]This is the end of the midterm. I do not have the other minigames ready yet. 

@@ -1,4 +1,5 @@
-[SPEAKERSPRITE=]Oh man there's no sprite right now or name!
-[NAME=Player]Why hello there! Now i have a name!
-[NAME=Enemy]This is a test script to make sure your dialogue is working! This is the boss.
-[NAME=Player]You can even change text. I am the player!
+[NAME=Zorrento]My name is Zorrento, the leader of the Kegathers (Key Gathers).
+[NAME=Zorrento]Do you dare to challenge me in one of the hardest games there is?!?!
+[NAME=Zorrento]Pshhhh, don't make me laugh kid. You are no match for me!
+[NAME=Zorrento]Either way, you won't make it out of here alive so better die trying.
+[NAME=Zorrento]MWAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHAHA!!!!!!!!!!!!!

@@ -18,5 +18,9 @@ public class KeyShow : MonoBehaviour {
     void Update() {
         if (secondsKeeper.Show1)
             _object1.SetActive(true);
+        if (secondsKeeper.Show2)
+            _object2.SetActive(true);
+        if (secondsKeeper.Show3)
+            _object3.SetActive(true);
     }
 }

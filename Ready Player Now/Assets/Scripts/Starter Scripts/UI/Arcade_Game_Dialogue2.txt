@@ -1,0 +1,4 @@
+[NAME=Arcade Game]Congratulations on surviving! Now to test your wits.
+[NAME=Arcade Game]Solve the upcoming slide puzzle to advance on to the next level.
+[NAME=Arcade Game]Once you get it, the game will end automatically.
+[NAME=Arcade Game]To start the game, walk away, prepare yourself, and stay calm.
